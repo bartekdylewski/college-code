@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3/cmake-build-debug"
+			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3"
+			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1035,7 +1035,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3/cmake-build-debug"
+			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3/cmake-build-debug"
 		},
 		{
 			"name" : "lab3_IS_TOP_LEVEL",
@@ -1059,7 +1059,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3"
+			"value" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3"
 		}
 	],
 	"kind" : "cache",

@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3/cmake-build-debug",
-		"source" : "/home/bartek/Documents/GitHub/college-projects/1s/lab3"
+		"build" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3/cmake-build-debug",
+		"source" : "/home/bartek/Documents/GitHub/college-projects/1s/ps/lab3"
 	},
 	"version" : 
 	{
