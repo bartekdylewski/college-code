@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /home/bartek/Documents/GitHub/college-projects/1s/lab3 Select CMakeLists.txt
